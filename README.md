@@ -11,8 +11,8 @@ KAIST 디지털금융MBA **클라우드 컴퓨팅 실습** 개인 과제입니�
 | 구분 | 주소 |
 |---|---|
 | 프론트엔드 (Vercel) | https://unbound-profile.vercel.app |
-| 백엔드 API (Render) | https://unbound-profile-api.onrender.com |
-| Swagger UI | https://unbound-profile-api.onrender.com/docs |
+| 백엔드 API (Render) | https://unbound-profile-backend.onrender.com |
+| Swagger UI | https://unbound-profile-backend.onrender.com/docs |
 | GitHub | https://github.com/haedallab/unbound-profile |
 
 ## 🧱 주요 구성
